@@ -25,4 +25,4 @@ The artboards whithin each page have been labelled such that you can export all 
 I have included separate '@x2's for retina screens. If you wanted to you can just either draw your icons and let Sketch do the normal (@x1) version. But you will then need to rename the newly created file.
 Or you could do your artwork on the regular sizes and then use Sketch's @x2 feature? S'up to you. I like control.
 
-If you spot any bug, errors with any of htese - file an Issue and i'll sort them out.
+If you spot any bug, errors with any of these - file an Issue and i'll sort them out.
