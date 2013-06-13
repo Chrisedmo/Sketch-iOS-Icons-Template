@@ -3,6 +3,8 @@ Sketch-iOS-Icons-Template
 
 A .sketch file with ALL the iOS app icon sizes, for iOS apps, App store and Web apps.
 
+![Sketch iOS icons template](https://dl.dropboxusercontent.com/u/3588577/sketch-ios.png)
+
 There are the following pages:
 
 ## App Icons
