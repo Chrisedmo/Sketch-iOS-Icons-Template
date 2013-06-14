@@ -8,13 +8,13 @@ A .sketch file with ALL the iOS app icon sizes, for iOS apps, App store and Web 
 There are the following pages:
 
 ## App Icons
-These are specific app icons for the app store.
+These are specific app icons for the app store. **I have now added the 60x60 & @x2: 120x120 iOS7 icons, unfortunately they are labelled the same as the 114x114 icons - so I have added (iOS7) after the news ones.**
 
 ## Launch Icons
 These are specific to the actual app itself, and are the "loading" images.
 
 ## Touch Icons
-These are for safari web apps. These are the icons that will appear as the bookmark, and on the users homescreen.
+These are for safari web apps. These are the icons that will appear as the bookmark, and on the users home-screen. **I have now added the 60x60  & @x2 120x120 iOS7 icons.**
 
 ## Startup Icons
 These are similar to the launch icons, only that these are labelled differently and are specifically for web apps.
